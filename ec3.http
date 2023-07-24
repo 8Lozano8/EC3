@@ -23,7 +23,7 @@
 # Deben desplegar su aplicación en render
 # Al finalizar el examen entregarlo en el siguiente link: https://forms.office.com/r/fdytLW5PHe
 
-@server = INSERTAR URL DE RENDER ACÁ
+@server = https://8lozano8-redesigned-space-guacamole-5j96qrxrqxpf7v7g-8080.preview.app.github.dev
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
